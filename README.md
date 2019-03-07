@@ -1,2 +1,2 @@
-# serveless-nodejs-api
-AWS Lambda Serveless NodeJs 
+# serverless-nodejs-api
+AWS Lambda Serverless NodeJs 
